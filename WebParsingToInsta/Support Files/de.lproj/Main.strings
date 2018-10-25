@@ -1,0 +1,24 @@
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "6Vo-DA-zmb"; */
+"6Vo-DA-zmb.title" = "Schließen";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Bck-f1-SrY"; */
+"Bck-f1-SrY.text" = "name";
+
+/* Class = "UIButton"; normalTitle = "Forward"; ObjectID = "d75-a9-EMF"; */
+"d75-a9-EMF.normalTitle" = "Nach vorne";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "H7G-h5-bfd"; */
+"H7G-h5-bfd.normalTitle" = "Zurück";
+
+/* Class = "UILabel"; text = "Link"; ObjectID = "JpS-Rw-zOP"; */
+"JpS-Rw-zOP.text" = "Verknüpfung";
+
+/* Class = "UILabel"; text = "link"; ObjectID = "JRN-54-9nz"; */
+"JRN-54-9nz.text" = "link";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "op6-7y-ZBZ"; */
+"op6-7y-ZBZ.title" = "Schließen";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Tmw-hw-NvS"; */
+"Tmw-hw-NvS.text" = "Name";
+
